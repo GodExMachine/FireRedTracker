@@ -1,0 +1,85 @@
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.exe
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.deps.json
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.runtimeconfig.json
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\PKHeX.Core.dll
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedT.5FBC404B.Up2Date
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\refint\FireRedTrackerGUI.dll
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\teste\FireRedTracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\ref\FireRedTrackerGUI.dll
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.exe
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.deps.json
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.runtimeconfig.json
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\PKHeX.Core.dll
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedT.5FBC404B.Up2Date
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\refint\FireRedTrackerGUI.dll
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\ref\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\bin\Debug\net8.0-windows\FireRedTrackerGUI.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\bin\Debug\net8.0-windows\FireRedTrackerGUI.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\bin\Debug\net8.0-windows\FireRedTrackerGUI.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\bin\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\bin\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\bin\Debug\net8.0-windows\PKHeX.Core.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedT.5FBC404B.Up2Date
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\refint\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\FireRedTrackerGUI.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUIv2\obj\Debug\net8.0-windows\ref\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\bin\Debug\net8.0-windows\PKHeX.Core.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedT.5FBC404B.Up2Date
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\refint\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\FireRedTrackerGUI\obj\Debug\net8.0-windows\ref\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\bin\Debug\net8.0-windows\PKHeX.Core.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedT.5FBC404B.Up2Date
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\refint\FireRedTrackerGUI.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\FireRedTrackerGUI.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\teste\tracker\FireRedTrackerGUI\obj\Debug\net8.0-windows\ref\FireRedTrackerGUI.dll

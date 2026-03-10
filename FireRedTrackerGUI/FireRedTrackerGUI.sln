@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireRedTrackerGUI", "FireRedTrackerGUI.csproj", "{E57C43FA-D888-BAFF-F1E1-0BA27CFC8123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57C43FA-D888-BAFF-F1E1-0BA27CFC8123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57C43FA-D888-BAFF-F1E1-0BA27CFC8123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57C43FA-D888-BAFF-F1E1-0BA27CFC8123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57C43FA-D888-BAFF-F1E1-0BA27CFC8123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE901674-26BE-4E93-950D-373A11BB9A7F}
+	EndGlobalSection
+EndGlobal
