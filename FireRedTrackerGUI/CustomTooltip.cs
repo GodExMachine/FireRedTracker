@@ -15,6 +15,7 @@ namespace FireRedTrackerGUI
             this.FormBorderStyle = FormBorderStyle.None;
             this.StartPosition = FormStartPosition.Manual;
             this.TopMost = true;
+          
 
             // Borda leve
             this.Paint += (s, e) =>
@@ -48,6 +49,8 @@ namespace FireRedTrackerGUI
 
             // Posiciona o tooltip
             this.Location = new Point(x, y);
+            this.Click += (s, e) => this.Close();
+            rtb.Click += (s, e) => this.Close();
         }
 
         public void SetText(string text)

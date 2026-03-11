@@ -8,6 +8,10 @@ namespace FireRedTrackerGUI
 {
     public partial class Form1 : Form
     {
+
+
+        string selectedGame = "FireRed";
+        ComboBox gameSelector = new ComboBox();
         string savePath = @"..\Pokemon - Fire Red.sav";
         System.Windows.Forms.Timer timer = new System.Windows.Forms.Timer();
         FlowLayoutPanel partyPanel = new FlowLayoutPanel();
@@ -22,12 +26,12 @@ namespace FireRedTrackerGUI
             InitializeComponent();
 
             // Janela vertical fina
-            this.Text = "FireRed Tracker";
+            this.Text = "PokeTracker";
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Width = 180;
-            this.Height = 880;
+            this.Height = 920;
             this.StartPosition = FormStartPosition.Manual;
             this.Top = 0;
             this.Left = Screen.PrimaryScreen.WorkingArea.Width - this.Width;
@@ -40,6 +44,43 @@ namespace FireRedTrackerGUI
             partyPanel.FlowDirection = FlowDirection.TopDown;
             partyPanel.AutoScroll = true;
             this.Controls.Add(partyPanel);
+
+            gameSelector.Items.AddRange(new string[]
+                {
+                    "FireRed",
+                    "LeafGreen",
+                    "Emerald",
+                    "Ruby",
+                    "Sapphire"
+                });
+
+                gameSelector.SelectedIndex = 0;
+                gameSelector.Dock = DockStyle.Bottom;
+
+               gameSelector.SelectedIndexChanged += (s, e) =>
+                {
+                    selectedGame = gameSelector.SelectedItem.ToString();
+
+                    if (selectedGame == "FireRed")
+                        savePath = @"..\Pokemon - Fire Red.sav";
+
+                    else if (selectedGame == "LeafGreen")
+                        savePath = @"..\Pokemon - Leaf Green.sav";
+
+                    else if (selectedGame == "Emerald")
+                        savePath = @"..\Pokemon - Emerald.sav";
+
+                    else if (selectedGame == "Ruby")
+                        savePath = @"..\Pokemon - Ruby.sav";
+
+                    else if (selectedGame == "Sapphire")
+                        savePath = @"..\Pokemon - Sapphire.sav";
+
+                    lastRead = DateTime.MinValue;
+                    UpdateParty(null, null);
+                };
+
+            this.Controls.Add(gameSelector);
 
             // Tooltip instantâneo
             tip.InitialDelay = 0;
@@ -68,11 +109,16 @@ private void UpdateParty(object sender, EventArgs e)
     if (!File.Exists(savePath)) return;
 
     var lastWrite = File.GetLastWriteTime(savePath);
-    if (lastWrite == lastRead) return;
-    lastRead = lastWrite;
 
+        if (sender != null) // só bloqueia quando vem do timer
+        {
+            if (lastWrite == lastRead) return;
+        }
+
+lastRead = lastWrite;
     var data = File.ReadAllBytes(savePath);
-    var sav = new SAV3FRLG(data);
+    var sav = SaveUtil.GetVariantSAV(data) as SAV3;
+    if (sav == null) return;
 
     partyPanel.Controls.Clear();
 
