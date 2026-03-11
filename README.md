@@ -10,12 +10,17 @@ How to use:
 \Games\roms\
 │
 ├─ FireRedTrackerGUI\
+
 ├─ Pokemon - Fire Red.sav
+
 ├─ Pokemon - Fire Red.gba
 
 2. Make sure the save and room files are named exactly:
 
 Pokemon - Fire Red.sav
+
 Pokemon - Emerald.sav
+
 Pokemon - Ruby.sav
+
 Pokemon - Saphire.sav
