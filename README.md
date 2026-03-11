@@ -8,7 +8,6 @@ How to use:
    Example:
 
 \Games\roms\
-│
 ├─ FireRedTrackerGUI\
 
 ├─ Pokemon - Fire Red.sav
