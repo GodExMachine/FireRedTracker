@@ -13,6 +13,9 @@ How to use:
 ├─ Pokemon - Fire Red.sav
 ├─ Pokemon - Fire Red.gba
 
-2. Make sure the save file is named exactly:
+2. Make sure the save and room files are named exactly:
 
 Pokemon - Fire Red.sav
+Pokemon - Emerald.sav
+Pokemon - Ruby.sav
+Pokemon - Saphire.sav
