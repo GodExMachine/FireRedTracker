@@ -3,7 +3,6 @@ FireRed Tracker GUI
 This is a tracker for Pokémon FireRed that displays your party Pokémon, colored IVs, and moves.
 
 How to use:
-
 1. Place the FireRedTrackerGUI folder in the same directory as your game ROM.  
    Example:
 
